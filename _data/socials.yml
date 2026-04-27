@@ -1,0 +1,13 @@
+# Social media links displayed on the About page (and in the navbar if enabled).
+# See https://github.com/george-gca/jekyll-socials for the full list of supported networks.
+email: david.hirsch@hpi.de
+github_username: simbahax
+linkedin_username: david-hirsch-3947041
+scholar_userid: qJLESrQAAAAJ
+rss_icon: true
+
+# Custom social link to the HPI group page.
+custom_social:
+  logo: https://hpi.de/typo3conf/ext/hpi_main/Resources/Public/Images/favicon.ico
+  title: HPI group page
+  url: https://hpi.de/classen/david-hirsch/

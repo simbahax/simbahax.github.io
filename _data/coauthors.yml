@@ -1,0 +1,22 @@
+# Co-authors referenced from _bibliography/papers.bib.
+# Adding an entry here links the author name to a URL on the publications page.
+
+"klischies":
+  - firstname: ["Daniel"]
+    url: https://informatik.rub.de/syssec/people/klischies/
+
+"goos":
+  - firstname: ["Dyon"]
+    url: https://www.vusec.net/people/dyon-goos/
+
+"milburn":
+  - firstname: ["Alyssa"]
+    url: https://www.vusec.net/people/alyssa-milburn/
+
+"muench":
+  - firstname: ["Marius"]
+    url: https://www.mariusmue.com/
+
+"moonsamy":
+  - firstname: ["Veelasha"]
+    url: https://veelasha.org/

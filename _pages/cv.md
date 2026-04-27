@@ -1,0 +1,11 @@
+---
+layout: cv
+permalink: /cv/
+title: cv
+nav: true
+nav_order: 3
+cv_format: jsonresume
+description: Education and experience.
+toc:
+  sidebar: left
+---
