@@ -9,7 +9,7 @@ last_name: Hirsch
 contact_note: >
   Best reached by email.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal homepage of David Hirsch — security researcher and PhD candidate at the Hasso Plattner Institute, University of Potsdam. Research interests include coverage-guided fuzzing, mobile and wireless platform security, and vulnerability discovery in low-level systems software.
+  Personal homepage of David Hirsch — security researcher and PhD candidate at the Hasso Plattner Institute, University of Potsdam.
 footer_text: >
   Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> using the <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a> theme.
   Favicon from <a href="https://github.com/googlefonts/noto-emoji" target="_blank">Noto Emoji</a> (Apache-2.0).
