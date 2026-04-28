@@ -1,0 +1,8 @@
+favicon.svg is the deer glyph from the Noto Emoji font:
+  https://github.com/googlefonts/noto-emoji
+  https://github.com/googlefonts/noto-emoji/blob/main/svg/emoji_u1f98c.svg
+
+Licensed under the Apache License, Version 2.0:
+  http://www.apache.org/licenses/LICENSE-2.0
+
+Copyright (c) Google LLC. Used unmodified.

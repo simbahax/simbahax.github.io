@@ -1,17 +1,13 @@
 ---
 layout: about
-title: about
+title: whoami
 permalink: /
-subtitle: PhD Candidate · <a href="https://hpi.de/classen/" target="_blank">Mobile and Wireless Security</a> · Hasso Plattner Institute · University of Potsdam
+subtitle: PhD Candidate @ Hasso Plattner Institute, University of Potsdam
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: false
-  more_info: >
-    <p>Hasso Plattner Institute</p>
-    <p>Prof.-Dr.-Helmert-Straße 2-3</p>
-    <p>14482 Potsdam, Germany</p>
+  image: david.jpg
+  image_circular: true
 
 selected_papers: true
 social: true
@@ -27,19 +23,11 @@ latest_posts:
   limit: 3
 ---
 
-I am a security researcher focused on coverage-guided fuzzing, mobile and wireless platform security, and vulnerability discovery in low-level systems software. My current work investigates hardware-assisted approaches to fuzzing modern platforms.
+Since January 2026, I have been a PhD candidate at the Hasso Plattner Institute, working in Prof. Dr.-Ing. Jiska Classen's research group [Cybersecurity - Mobile and Wireless](https://hpi.de/en/classen/).
 
-I joined the [Mobile and Wireless Security](https://hpi.de/classen/) group at HPI under [Prof. Jiska Classen](https://hpi.de/classen/) in January 2026.
+My research focuses on fuzzing and vulnerability discovery in low-level systems software, with the goal of making everyday devices more secure. I work primarily on browser engines and cellular baseband firmware, and currently investigate hardware-assisted fuzzing primitives. My work has been published at IEEE S&P and presented at OffensiveCon, and I have received bug bounties from Google and MediaTek for vulnerabilities reported through their disclosure programs.
 
-## Wall of Fame
+Before joining HPI, I spent four years working in IT forensics, most recently as technical lead.
+I earned my M.Sc. in Applied IT Security from [Ruhr University Bochum](https://www.rub.de/en/) in 2025, and my B.Sc. in Electrical and Information Engineering from [Hamburg University of Applied Sciences](https://www.haw-hamburg.de/en/) in 2021. During my Bachelor's degree, I participated in a cooperative studies program at [Lufthansa Technik AG](https://www.lufthansa-technik.com/).
 
-### Talks
-- **OffensiveCon 2025** — *No Signal, No Security: Dynamic Baseband Vulnerability Research* ([recording](https://www.youtube.com/watch?v=zoAITq7jUM8))
-
-### Awards & Recognition
-- **2025** — V8 Sandbox Bypasses, Google Chrome VRP: [#427662337](https://crbug.com/427662337), [#430498032](https://crbug.com/430498032), [#433800618](https://crbug.com/433800618)
-- **2025** — CVE-2024-20149, CVE-2024-20150, CVE-2024-20154 ([MediaTek bulletin](https://corp.mediatek.com/product-security-bulletin/January-2025))
-- **2018 – 2021** — Scholarship, [Stiftung der Deutschen Wirtschaft](https://www.sdw.org) (German Business Foundation)
-- **2018** — Prize for Outstanding A-Level Performance, [Deutsche Physikalische Gesellschaft](https://www.dpg-physik.de/) (German Physical Society)
-- **2016** — 2nd place, Rhineland-Palatinate State Competition, [Jugend forscht](https://www.jugend-forscht.de/information-in-english.html) (Germany's most renowned program for young scientists)
-- **2015** — Federal Ministry for the Environment Prize, Rhineland-Palatinate State Competition, [Jugend forscht](https://www.jugend-forscht.de/information-in-english.html)
+A detailed CV is available upon request.
