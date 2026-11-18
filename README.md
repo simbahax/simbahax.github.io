@@ -5,7 +5,7 @@ Personal homepage of David Hirsch. Built on the [al-folio](https://github.com/al
 ## Local preview
 
 ```bash
-docker compose up
+docker compose up --build
 # Site runs at http://localhost:8080
 ```
 
